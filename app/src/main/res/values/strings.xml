@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Map</string>
+    <string name="lat">Latitude</string>
+    <string name="lon">Longitude</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="show_location">Show Location</string>
+    <string name="show_map">Show Map</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="service_not_available">Service is not available</string>
+    <string name="invalid_lat_long_used">Invalid latitude and longitude values</string>
+    <string name="no_address_found">No address found</string>
+    <string name="address_found">Address found</string>
+    <string name="no_geocode_available">No Geocoder available</string>
+</resources>
